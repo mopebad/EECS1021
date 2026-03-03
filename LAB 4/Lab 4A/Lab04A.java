@@ -37,7 +37,7 @@ public class Lab04A {
         long endTime = System.currentTimeMillis();
 
         if (index != -1) {
-            System.out.println("Element#" + index + " of the entered vector is divisible by " + n + " & " + m + ".");
+            System.out.println("Element #" + index + " of the entered vector is divisible by " + n + " & " + m + ".");
         } else {
             System.out.println("The entered vector has no element divisible by " + n + " & " + m + ".");
         }
