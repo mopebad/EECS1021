@@ -1,3 +1,3 @@
-CO2 Average: 51.17929606625259
-Temperature Average: 941.8636991028295
-Humidity Average: 18.234989648033125
+CO2 average: 51.17929606625259
+Temperature average: 941.8636991028295
+Humidity average: 18.234989648033125

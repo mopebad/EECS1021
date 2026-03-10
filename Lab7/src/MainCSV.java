@@ -7,7 +7,7 @@ import java.util.List;
 public class MainCSV {
     public static void main(String[] args) {
         String inputFile = "C:\\Users\\joshm\\IdeaProjects\\EECS1021\\Lab7\\CO2_Input.csv";
-        String outputFile = "output.txt";
+        String outputFile = "Lab7/output.txt";
 
         ArrayList<String[]> rows = new ArrayList<>();
 
