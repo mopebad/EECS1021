@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LEDBlinking">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LAB 3/LEDBlinking.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
